@@ -75,7 +75,7 @@
     "reselect": "3.0.1",
     "sass-loader": "6.0.6",
     "shortid": "2.2.8",
-    "socket.io": "2.0.3",
+    "socket.io": "2.4.0",
     "socket.io-client": "2.0.3",
     "style-loader": "0.18.2",
     "toolbox-loader": "0.0.3",
